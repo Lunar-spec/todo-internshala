@@ -20,18 +20,18 @@ A simple, interactive Todo List application built with React and Tailwind CSS.
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/Lunar-spec/todo-internshala.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd todo-list-app
+   cd todo-app
    ```
 
 3. Install dependencies:
    ```
-   npm install
+   pnpm install
    ```
 
 ## Running the Application
@@ -39,7 +39,7 @@ A simple, interactive Todo List application built with React and Tailwind CSS.
 To start the development server:
 
 ```
-npm run dev
+pnpm run dev
 ```
 
 The application will be available at `http://localhost:5173`
@@ -49,7 +49,7 @@ The application will be available at `http://localhost:5173`
 To create a production build:
 
 ```
-npm run build
+pnpm run build
 ```
 
 ## Technologies Used

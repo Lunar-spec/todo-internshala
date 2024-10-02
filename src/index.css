@@ -4,10 +4,4 @@
 
 body {
   font-family: "Jost", sans-serif;
-  @apply bg-gray-900 text-white;
-}
-
-button {
-  @apply bg-sky-500 text-white text-lg transition-colors duration-300 ease-in-out capitalize py-2 px-4 rounded-full;
-  @apply hover:bg-sky-700;
 }
